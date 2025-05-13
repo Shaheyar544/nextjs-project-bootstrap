@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+    <title>Big Bull Movers Demo Content</title>
+    <link>http://example.com</link>
+    <description>Demo content for Big Bull Movers theme</description>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+
+    <!-- Services -->
+    <item>
+        <title>House Removals</title>
+        <link>http://example.com/services/house-removals</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://example.com/?post_type=service&#038;p=1</guid>
+        <description></description>
+        <content:encoded><![CDATA[Professional house removal services with care and efficiency.]]></content:encoded>
+        <post_type>service</post_type>
+        <post_status>publish</post_status>
+    </item>
+
+    <item>
+        <title>Furniture Removals</title>
+        <link>http://example.com/services/furniture-removals</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://example.com/?post_type=service&#038;p=2</guid>
+        <description></description>
+        <content:encoded><![CDATA[Safe and secure furniture removals for your home or office.]]></content:encoded>
+        <post_type>service</post_type>
+        <post_status>publish</post_status>
+    </item>
+
+    <!-- Testimonials -->
+    <item>
+        <title>John Doe</title>
+        <link>http://example.com/testimonials/john-doe</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://example.com/?post_type=testimonial&#038;p=3</guid>
+        <description></description>
+        <content:encoded><![CDATA[Excellent service! Highly recommend Big Bull Movers.]]></content:encoded>
+        <post_type>testimonial</post_type>
+        <post_status>publish</post_status>
+    </item>
+
+    <!-- FAQs -->
+    <item>
+        <title>How much time will it take to move my house or office?</title>
+        <link>http://example.com/faqs/how-much-time-will-it-take</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://example.com/?post_type=faq&#038;p=4</guid>
+        <description></description>
+        <content:encoded><![CDATA[The time depends on the size and distance of your move. Typically, it takes 1-2 days.]]></content:encoded>
+        <post_type>faq</post_type>
+        <post_status>publish</post_status>
+    </item>
+
+</channel>
+</rss>
